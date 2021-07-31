@@ -1,8 +1,15 @@
-# [Photon](http://photonkit.com/)
+# [gizmo](#)
 
-[![Build Status](https://img.shields.io/travis/connors/photon/master.svg)](https://travis-ci.org/connors/photon)
+UI Framework to build robust desktop applications in any framework you want.
 
-UI toolkit for building desktop apps with Electron.
+> EARLY IN DEVELOPMENT
+
+## Goals
+
+- Provide an easily integratable CSS framework for desktop applications built using web technologies (Flask, Django, Electron, etc.)
+- Provide a myriad of advanced templates to work with (Appbar, multi-pane windows)
+
+---
 
 ## Getting started
 
@@ -85,4 +92,4 @@ Connor Sears
 
 ## License
 
-Copyright @connors. Released under MIT.
+Copyright @connors @Zenahr. Released under MIT.
