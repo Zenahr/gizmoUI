@@ -2,6 +2,8 @@
 
 UI Framework to build robust desktop applications in any framework you want.
 
+> Gizmo: an interesting and often novel device with a practical use (lat. Thesaurus)
+
 > EARLY IN DEVELOPMENT
 
 ## Goals
